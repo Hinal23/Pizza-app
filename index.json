@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Margherita",
       "image": "https://www.dominos.co.in/blog/wp-content/uploads/2019/12/new_double_cheese_margherita.jpg",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -18,7 +18,7 @@
       "id": 2,
       "name": "Farmhouse",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjeQRwUZ-0Nk1HQwNoDRVpBltKK_nGAuFxg&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -32,7 +32,7 @@
       "id": 3,
       "name": "Peppy Paneer",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7QIZJiScXblPmjVqBB6trmIWhisy-Lvf38g&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -46,7 +46,7 @@
       "id": 4,
       "name": "Veg Paradise",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShoEZjIzABz409KA76KzV_Z8zNbSu7mOGBlw&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -60,7 +60,7 @@
       "id": 5,
       "name": "Cheese Corn",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9GvYSfrjKVswK7RhWD5cPOBVUDt7O-LUl2Q&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -74,7 +74,7 @@
       "id": 6,
       "name": "Indi Tandoori Paneer",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQe_5wbvNOTDqTizklHLqpbUPnVd7i91bJUw&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -88,7 +88,7 @@
       "id": 7,
       "name": "Creamy Tomato Pasta Pizza",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQe_5wbvNOTDqTizklHLqpbUPnVd7i91bJUw&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -102,7 +102,7 @@
       "id": 8,
       "name": "Moroccan Spice Pasta Pizza",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQe_5wbvNOTDqTizklHLqpbUPnVd7i91bJUw&usqp=CAU",
-      "price": ["Rs.99", "Rs.199", "Rs.399"],
+      "price": ["99", "199", "399"],
       "sizes": ["Regular", "Medium", "Large"],
       "discription": "A classic delight with 100% Real mozzarella cheese",
       "crust": [
@@ -119,24 +119,24 @@
       "name": "Pasta Treat Specials",
       "image": "https://images.dominos.co.in/PASTATREATSPECIALS.jpg",
       "items": ["Veg Creamy Tomato Pasta", "Garlic Bread", "Pepsi"],
-      "price": "Rs.379"
+      "price": "379"
     },
     {
       "id": 2,
       "name": "Family Treat Veg Meals",
       "items": ["Med Farmhouse Pizza", "Garlic Bread", "Pepsi"],
-      "price": "Rs.379"
+      "price": "379"
     },
     {
       "id": 3,
       "name": "Family Treat Paneer Meals",
       "items": ["Med Peppy Paneer Pizza", "Garlic Bread", "Pepsi"],
-      "price": "Rs.479"
+      "price": "479"
     },
     {
       "name": "Pasta Treat Specials",
       "items": ["Veg Creamy Tomato Pasta Pizza", "Garlic Bread", "Pepsi"],
-      "price": "Rs.509"
+      "price": "509"
     },
     {
       "id": 4,
@@ -147,102 +147,108 @@
         "2Pepsi",
         "2Brownie Fantasy"
       ],
-      "price": "Rs.829"
+      "price": "829"
     }
   ],
   "Sides": [
     {
       "id": 1,
       "name": "Taco Mexicana",
-      "price": "Rs.129",
+      "price": "129",
       "discription": "Truly irresistible! Crispy taco with veg patty & creamy harissa sauce"
     },
     {
       "id": 2,
       "name": "Veg Parcel",
-      "price": "Rs.49",
+      "price": "49",
       "discription": "Snacky bites! Pizza rolls with paneer & creamy harissa sauce"
     },
     {
       "id": 3,
       "name": "Garlic Bread",
-      "price": "Rs.99",
+      "price": "99",
       "discription": "Baked to perfection. Your perfect pizza partner! Tastes best with dip"
     },
     {
       "id": 4,
       "name": "Tikka Masala Pasta Veg",
-      "price": "Rs.129",
+      "price": "129",
       "discription": "Instant Fusilli Pasta, Spicy Red dressing, Onion, Paneer Tikka, Parsley sprinkle"
     },
     {
       "id": 5,
       "name": "Creamy Tomato Pasta Veg",
-      "price": "Rs.149",
+      "price": "149",
       "discription": "Instant Fusilli Pasta, Creamy Culinary Dressing, Onion, Olive, Green Capsicum, Parsley sprinkle"
     }
   ],
   "Beverages": [
     {
       "id": 1,
+      "image": "https://images.dominos.co.in/BEV0119_1.jpg",
       "name": "Pepsi(500ml)",
       "discription": "Sparkling and Refreshing Beverage",
-      "price": "Rs.60"
+      "price": "60"
     },
     {
       "id": 2,
+      "image": "https://images.dominos.co.in/7up_new_2202.jpg",
       "name": "7Up(500ml)",
       "discription": "Refreshing clear drink with a natural lemon flavor",
-      "price": "Rs.60"
+      "price": "60"
     },
     {
       "id": 3,
+      "image": "https://images.dominos.co.in/mirinda.jpg",
       "name": "Mirinda(500ml)",
       "discription": "Delicious Orange Flavoured beverage",
-      "price": "Rs.60"
+      "price": "60"
     },
     {
       "id": 4,
+      "image": "https://images.dominos.co.in/PINKGUAVA.jpg",
       "name": "B Natural Pink Guavas from Dakshin India (300 ml)",
       "discription": "Pulpy Pink Guavas with the Goodness of Fiber",
-      "price": "Rs.75"
+      "price": "75"
     },
     {
       "id": 5,
+      "image": "https://images.dominos.co.in/MIXEDFRUIT.jpg",
       "name": "B Natural Mixed Fruit from Himalayas (300 ml)",
       "discription": "Premium fruits from Himalayas with the Goodness of Fiber",
-      "price": "Rs.75"
+      "price": "75"
     },
     {
       "id": 6,
+      "image": "https://images.dominos.co.in/BailleyONE.jpg",
       "name": "Bailley One (500ml)",
       "discription": "Packaged Drinking Water",
-      "price": "Rs.20"
+      "price": "20"
     }
   ],
   "Deserts": [
     {
       "id": 1,
       "name": "Choco Lava Cake",
-      "price": "Rs.99",
+      "price": "99",
       "discription": "Chocolate lovers delight! Indulgent, gooey molten lava inside chocolate cake"
     },
     {
       "id": 2,
       "name": "Red Velvet Choco Lava Cake",
-      "price": "Rs.129",
+      "price": "129",
       "discription": "A truly indulgent experience with sweet and rich red velvet cake on a creamy cheese flavoured base"
     },
     {
       "id": 3,
       "name": "Butterscotch Mousse Cake",
-      "price": "Rs.99",
+      "price": "99",
       "discription": "Sweet temptation! Butterscotch flavored mousse"
     },
     {
       "id": 4,
       "name": "Brownie Fantasy",
-      "price": "Rs.59",
+      "price": "59",
       "discription": "Sweet Temptation! Hot Chocolate Brownie drizzled with chocolate fudge sauce"
     }
   ]
